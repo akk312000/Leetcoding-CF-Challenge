@@ -23,6 +23,7 @@ public:
                     diff=difo;
                     ans=sumo;
                 }
+                
                 if(sumo>target)
                 {
                     k--;
